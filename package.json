@@ -15,10 +15,6 @@
     "_server:build": "tsc -p ./server",
     "postinstall": "npm run build"
   },
-  "author": "Vlado Tešanović",
-  "repository": {
-    "url": "https://github.com/vladotesanovic/angular2-express-starter"
-  },
   "private": true,
   "dependencies": {
     "@angular/cli": "^1.0.0",
